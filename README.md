@@ -7,7 +7,6 @@ A simple and functional Windows Forms application written in C# that allows user
 ## 📷 Screenshots
 
 ### 🧾 Order Form
-(screenshots/1.png)
 ![Order Form](screenshots/2.png)
 
 ### ✅ Summary Form
